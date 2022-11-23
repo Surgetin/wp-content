@@ -1,0 +1,13 @@
+@use "../globals/variables" as *;
+@use "../globals/colors" as *;
+
+/* 
+	Theme name: probanap
+	Version: 0.1
+	Author: Máté
+	Text Domain: myfirsttheme
+*/
+
+#menu-navigation {
+  display: flex;
+}
